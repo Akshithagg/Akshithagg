@@ -1,5 +1,6 @@
 BRO, WHAT KINDA WORLD IM IN THO RN? this is new to me, yet exciting 
-WHO ME? 
+
+***WHO ME?***
 🦥 Lazy Sloth, but wanna pull up something!   (yeah, i finnaly can get the reference jokes)
 💻 CS Student (Class of 2027)  
 🤖 Passionate about ML (just recently!)  
