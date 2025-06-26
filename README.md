@@ -1,4 +1,4 @@
-BRO, WHAT KINDA WORLD IM IN THO RN? this is new to me, yet exciting 
+BRO, WHAT KINDA WORLD IM IN THO RN? this is new to me, yet exciting, scary bro
 
 ***WHO ME?***
 🦥 Lazy Sloth, but wanna pull up something!(yeah, i finally can get the reference jokes)
