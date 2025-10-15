@@ -1,13 +1,14 @@
-BRO, WHAT KINDA WORLD IM IN THO RN? this is new to me, yet exciting, scary bro
 
 
 🚀 **Currently Learning:**  
-- Machine Learning 🤖  
-- Data Science 📊  
-- Building cool stuff on Google Colab 🔥  
+- Machine Learning 
+- Data Science 
+- Building cool stuff on Google Colab
+- Backend Devlopment
+  
 
 🎯 **Goals:**  
-- Master ML/DS fundamentals  
+- Master ML/DS pro level
 - Build real-world projects  
 - Make it rain 💰
 
