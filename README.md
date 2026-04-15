@@ -1,7 +1,10 @@
 
-Hi, I am Akshitha
-I break codes more than writing them xD
-Into backend, ML, and building stuff that *actually works* (eventually).
+# Hi, I am Akshitha 👋  
+
+<p>
+I break code more than I write it xD<br>
+Into backend, ML, and building stuff that <i>actually works</i> (eventually).
+</p>
 
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;ML+Enthusiast;Always+Learning&center=true&width=500&height=50)
@@ -36,6 +39,5 @@ Into backend, ML, and building stuff that *actually works* (eventually).
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Akshithagg&show_icons=true&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com?user=Akshithagg&theme=tokyonight)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshithagg&theme=tokyo-night)
