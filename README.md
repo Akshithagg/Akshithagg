@@ -7,29 +7,35 @@ Into backend, ML, and building stuff that *actually works* (eventually).
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;ML+Enthusiast;Always+Learning&center=true&width=500&height=50)
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Python](https://img.shields.io/badge/Python-blue)
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=openjdk&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/C-111111?style=flat&logo=c&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=yellow"/>
 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green)
-![React](https://img.shields.io/badge/React-black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-teal)
+  <img src="https://img.shields.io/badge/SpringBoot-111111?style=flat&logo=springboot&logoColor=green"/>
+  <img src="https://img.shields.io/badge/REST_API-111111?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-Integration-111111?style=flat&logo=postman&logoColor=orange"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![SQLite](https://img.shields.io/badge/SQLite-lightgrey)
+  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind-111111?style=flat&logo=tailwind-css&logoColor=38B2AC"/>
 
-![NumPy](https://img.shields.io/badge/NumPy-darkblue)
-![Pandas](https://img.shields.io/badge/Pandas-purple)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/SQLite-111111?style=flat&logo=sqlite&logoColor=lightgrey"/>
 
-![JSON](https://img.shields.io/badge/JSON-black)
-![XML](https://img.shields.io/badge/XML-grey)
+  <img src="https://img.shields.io/badge/NumPy-111111?style=flat&logo=numpy&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Pandas-111111?style=flat&logo=pandas&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-111111?style=flat&logo=scikit-learn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=flat&logo=tensorflow&logoColor=orange"/>
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-lightblue)
+  <img src="https://img.shields.io/badge/JSON-111111?style=flat&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-111111?style=flat"/>
+
+  <img src="https://img.shields.io/badge/ServiceNow-111111?style=flat&logo=servicenow&logoColor=white"/>
+</p>
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Akshithagg&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Akshithagg&theme=tokyonight)
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
