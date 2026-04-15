@@ -38,10 +38,5 @@ Into backend, ML, and building stuff that <i>actually works</i> (eventually).
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Akshithagg&theme=tokyonight"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshithagg&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshithagg&theme=tokyo-night&area=true&hide_border=true"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshithagg&theme=tokyo-night"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akshithagg&show_icons=true&theme=tokyonight"/>
